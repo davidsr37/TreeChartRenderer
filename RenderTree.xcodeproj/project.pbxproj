@@ -48,6 +48,7 @@
 		9C9D4BC22BCEE9B000AE7EDD = {
 			isa = PBXGroup;
 			children = (
+				9C9D4BE62BCEF5BE00AE7EDD /* README.md */,
 				9C9D4BCD2BCEE9B000AE7EDD /* RenderTree */,
 				9C9D4BCC2BCEE9B000AE7EDD /* Products */,
 			);
@@ -73,7 +74,6 @@
 				9C9D4BD72BCEE9B100AE7EDD /* Assets.xcassets */,
 				9C9D4BD92BCEE9B100AE7EDD /* LaunchScreen.storyboard */,
 				9C9D4BDC2BCEE9B100AE7EDD /* Info.plist */,
-				9C9D4BE62BCEF5BE00AE7EDD /* README.md */,
 				9C9D4BEB2BCEF6DB00AE7EDD /* images */,
 			);
 			path = RenderTree;
