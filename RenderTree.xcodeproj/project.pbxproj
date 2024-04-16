@@ -15,6 +15,8 @@
 		9C9D4BDB2BCEE9B100AE7EDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C9D4BD92BCEE9B100AE7EDD /* LaunchScreen.storyboard */; };
 		9C9D4BE32BCEF0A700AE7EDD /* TreeChartRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9D4BE22BCEF0A700AE7EDD /* TreeChartRenderer.swift */; };
 		9C9D4BE52BCEF12500AE7EDD /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9D4BE42BCEF12500AE7EDD /* UIColor+Extension.swift */; };
+		9C9D4BE72BCEF5BE00AE7EDD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9C9D4BE62BCEF5BE00AE7EDD /* README.md */; };
+		9C9D4BE92BCEF64D00AE7EDD /* TreeChartRenderImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C9D4BE82BCEF64D00AE7EDD /* TreeChartRenderImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		9C9D4BDC2BCEE9B100AE7EDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C9D4BE22BCEF0A700AE7EDD /* TreeChartRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeChartRenderer.swift; sourceTree = "<group>"; };
 		9C9D4BE42BCEF12500AE7EDD /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		9C9D4BE62BCEF5BE00AE7EDD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9C9D4BE82BCEF64D00AE7EDD /* TreeChartRenderImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TreeChartRenderImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,8 +73,18 @@
 				9C9D4BD72BCEE9B100AE7EDD /* Assets.xcassets */,
 				9C9D4BD92BCEE9B100AE7EDD /* LaunchScreen.storyboard */,
 				9C9D4BDC2BCEE9B100AE7EDD /* Info.plist */,
+				9C9D4BE62BCEF5BE00AE7EDD /* README.md */,
+				9C9D4BEB2BCEF6DB00AE7EDD /* images */,
 			);
 			path = RenderTree;
+			sourceTree = "<group>";
+		};
+		9C9D4BEB2BCEF6DB00AE7EDD /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9C9D4BE82BCEF64D00AE7EDD /* TreeChartRenderImage.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,6 +147,8 @@
 			files = (
 				9C9D4BDB2BCEE9B100AE7EDD /* LaunchScreen.storyboard in Resources */,
 				9C9D4BD82BCEE9B100AE7EDD /* Assets.xcassets in Resources */,
+				9C9D4BE72BCEF5BE00AE7EDD /* README.md in Resources */,
+				9C9D4BE92BCEF64D00AE7EDD /* TreeChartRenderImage.png in Resources */,
 				9C9D4BD62BCEE9B000AE7EDD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
